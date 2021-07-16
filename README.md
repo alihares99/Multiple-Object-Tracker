@@ -1,5 +1,5 @@
-#Multi Object Tracker
-This is a library for tracking multi objects in an N-dimentional space. The library is structured as described in the [MATLAB help document](https://www.mathworks.com/help/fusion/ug/introduction-to-multiple-target-tracking.html "MATLAB help document"): There are four fundamental components in the library:
+#Multi Object Tracker in Qt
+This is a library for tracking multi objects in an N-dimentional space in Qt. The library is structured as described in the [MATLAB help document](https://www.mathworks.com/help/fusion/ug/introduction-to-multiple-target-tracking.html "MATLAB help document"): There are four fundamental components in the library:
 - Gating
 - Assignment
 - Filter
