@@ -1,4 +1,4 @@
-#Multi Object Tracker in Qt
+# Multi Object Tracker in Qt
 This is a library for tracking multi objects in an N-dimentional space in Qt. The library is structured as described in the [MATLAB help document](https://www.mathworks.com/help/fusion/ug/introduction-to-multiple-target-tracking.html "MATLAB help document"): There are four fundamental components in the library:
 - Gating
 - Assignment
@@ -9,6 +9,6 @@ The gating procedure is the same as the MATLAB document. The assignment algorith
 
 We have provided an implementation for all of the components in the library. But thanks to the abstract factory design pattern, you may easily add your own implementation to any of the components in the library without breaking its structure.
 
-##Dependencies
+## Dependencies
 - Eigen C++ library
 - QCustomPlot (included in the repository)
